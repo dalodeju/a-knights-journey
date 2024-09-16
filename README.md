@@ -20,7 +20,7 @@ In this game, you'll guide your knight through a series of challenges spread acr
 ## Installation and Launch Instructions
 
 ### Windows Users
-1. Download the file `A_Knight's_Journey.exe` from the provided link.
+1. Download the latest release of `A_Knight's_Journey.exe` from the provided link.
 2. Run the executable by double-clicking the file.
 3. **Important**: The game is not signed, so Windows SmartScreen may give you a warning when you try to run the program. If this happens:
    - Click **"More Info"**.
@@ -32,7 +32,7 @@ In this game, you'll guide your knight through a series of challenges spread acr
 5. If the game doesn't start, simply find "A Knight's Journey" in your start menu or desktop and run it.
 
 ### HTML (Browser-based)
-1. Download `A_Knight's_Journey.html` from the provided link.
+1. Download the latest release of `A_Knight's_Journey.html` from the provided link.
 2. Open the file using any modern web browser (Google Chrome, Firefox, Microsoft Edge, etc.).
 3. The game will launch directly in your browser for a more lightweight experience, with no installation required.
 
