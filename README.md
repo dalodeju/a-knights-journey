@@ -4,9 +4,9 @@ _A mini-game with 3 levels where you embark on an epic quest as a brave knight!_
 
 ## Overview
 
-"A Knight's Journey" was first developed using Scratch as part of a collaborative project with a group of enthusiastic developers. Due to the game's popularity and the desire to make it accessible on more platforms, we ported it to both HTML for web browsers and a Windows executable (32-bit) for desktop users.
+"A Knight's Journey" was first developed using Scratch as part of a collaborative project with a group of enthusiastic computer scientists. With the desire to make it accessible on more platforms, I've ported it to both HTML for web browsers and a Windows executable (32-bit) for desktop users.
 
-In this game, you'll guide your knight through a series of challenges spread across 3 different levels. Whether you're facing enemies, avoiding traps, or collecting treasures, each level offers a unique experience that will test your skills and bravery.
+In this game, you'll guide your knight through a series of challenges spread across 3 different levels. Whether you're facing enemies, avoiding traps, or flying through caverns, each level offers a unique experience that will test your skills and bravery.
 
 ## Platforms
 
@@ -27,8 +27,6 @@ In this game, you'll guide your knight through a series of challenges spread acr
    - Once the installation is complete, the game will launch automatically.
 5. If the game doesn't start, simply find "A Knight's Journey" in your start menu or desktop and run it.
 
-**Tip**: Make sure your system meets the minimum requirements for a smooth gaming experience.
-
 ### HTML (Browser-based)
 1. Download `A_Knight's_Journey.html` from the provided link.
 2. Open the file using any modern web browser (Google Chrome, Firefox, Microsoft Edge, etc.).
@@ -36,26 +34,22 @@ In this game, you'll guide your knight through a series of challenges spread acr
 
 ## Gameplay
 
-- **Level 1: The Forest**
-  - Navigate through a dense forest filled with obstacles and hidden treasures. Be on the lookout for enemies!
+- **Level 1: Dungeon**
+  - Fight off bats with your mighty sword as they fly towards you from all directions!
   
-- **Level 2: The Castle**
-  - Explore a vast castle filled with tricky puzzles and guarded by fierce enemies. Your mission is to retrieve a stolen artifact.
+- **Level 2: Icicle Cave**
+  - Jump over icy spikes while exploring a vast Icicle Cave, reach the end and escape!
 
 - **Level 3: The Dragon's Lair**
-  - Face the ultimate challenge as you enter the dragon's lair. Defeat the dragon to complete your knight's journey!
+  - Face the ultimate challenge as you enter the dragon's lair. Ride the dragon out to complete your knight's journey!
 
 ## Controls
 
-- **Arrow Keys**: Move your character.
-- **Spacebar**: Attack or interact with objects.
-- **ESC**: Pause the game.
+- **WASD**: Move your character.
+- **Right click**: Shoot at enemies.
+- **Spacebar**: Jump or fly to manuever around incoming obstacles.
 
 ## Credits
 
-- Original Scratch Version: Developed by [Your Team Name]  
-- HTML and Windows Port: [Your Team Name]  
-
-## License
-
-"A Knight's Journey" is a collaborative project under the [license type]. Please refer to the LICENSE file for more details.
+- [Original Scratch Version](https://scratch.mit.edu/projects/832653301/): Developed by Darrel Loh De Jun, YM Tunku Ines Najihah Raden, Anjelie Kandasamy, Sze Huey Ong, Asif Ahamed Siddique, Yu Qing Ti and Yi Xin Yeo.
+- HTML and Windows Port: Darrel Loh De Jun via TurboWarp Packager.
