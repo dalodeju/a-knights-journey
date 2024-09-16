@@ -1,4 +1,6 @@
-# A Knight's Journey
+# A Knight's Journey 
+
+<img src="img/a-knight-icon.png" alt="image description" width="230" height="200"> 
 
 _A mini-game with 3 levels where you embark on an epic quest as a brave knight!_
 
@@ -7,6 +9,8 @@ _A mini-game with 3 levels where you embark on an epic quest as a brave knight!_
 "A Knight's Journey" was first developed using Scratch as part of a collaborative project with a group of enthusiastic computer scientists. With the desire to make it accessible on more platforms, I've ported it to both HTML for web browsers and a Windows executable (32-bit) for desktop users.
 
 In this game, you'll guide your knight through a series of challenges spread across 3 different levels. Whether you're facing enemies, avoiding traps, or flying through caverns, each level offers a unique experience that will test your skills and bravery.
+
+<img src="img/Home.png" alt="image description" width="300" height="200"> <img src="img/Level 2.png" alt="image description" width="300" height="200"> <img src="img/Level 3.png" alt="image description" width="300" height="200"> 
 
 ## Platforms
 
@@ -51,5 +55,5 @@ In this game, you'll guide your knight through a series of challenges spread acr
 
 ## Credits
 
-- [Original Scratch Version](https://scratch.mit.edu/projects/832653301/): Developed by Darrel Loh De Jun, YM Tunku Ines Najihah Raden, Anjelie Kandasamy, Sze Huey Ong, Asif Ahamed Siddique, Yu Qing Ti and Yi Xin Yeo.
-- HTML and Windows Port: Darrel Loh De Jun via TurboWarp Packager.
+- **[Original Scratch Version](https://scratch.mit.edu/projects/832653301/)**: _Developed by Darrel Loh De Jun, YM Tunku Ines Najihah Raden, Anjelie Kandasamy, Sze Huey Ong, Asif Ahamed Siddique, Yu Qing Ti and Yi Xin Yeo._
+- **HTML and Windows Port**: _Darrel Loh De Jun via TurboWarp Packager._
