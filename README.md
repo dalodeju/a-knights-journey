@@ -10,7 +10,7 @@ _A mini-game with 3 levels where you embark on an epic quest as a brave knight!_
 
 In this game, you'll guide your knight through a series of challenges spread across 3 different levels. Whether you're facing enemies, avoiding traps, or flying through caverns, each level offers a unique experience that will test your skills and bravery.
 
-<img src="img/Home.png" alt="image description" width="300" height="200"> <img src="img/Level 2.png" alt="image description" width="300" height="200"> <img src="img/Level 3.png" alt="image description" width="300" height="200"> 
+<img src="img/Home.png" alt="image description" width="300" height="200"> <img src="img/Level 3.png" alt="image description" width="300" height="200"> 
 
 ## Platforms
 
